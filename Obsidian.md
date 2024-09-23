@@ -3,4 +3,6 @@
 https://www.reddit.com/r/ObsidianMD/comments/qpymxi/im_new_and_i_need_help/
 	`$\phi$`
 
-https://tuckercarlson.com/the-vladimir-putin-interview/
+
+## Advanced URI
+
